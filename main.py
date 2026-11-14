@@ -1,1 +1,7 @@
-print("ola")
+n1 = input("N1:")
+n2 = input("N2:")
+n3 = input("N3:")
+n4 = input("N4:")
+n5 = input("N5:")
+soma = int(n1) * int(n2) * int(n3) * int(n4) * int(n5)
+print(soma)
